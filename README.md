@@ -33,3 +33,8 @@ Spotify'dan toplanan şarkıların her biri için 26 değişken içerir. Bu değ
 - **Description**: YouTube'daki videonun açıklaması.
 - **Licensed**: Videonun lisanslı içeriği temsil edip etmediğini belirtir, yani içeriğin bir YouTube içerik ortağına bağlı bir kanala yüklendiği ve daha sonra bu ortak tarafından talep edildiği anlamına gelir.
 - **official_video**: Bulunan videonun şarkının resmi videosu olup olmadığını belirten boolean değer.
+
+
+## SONUÇ
+
+Spotify ve YouTube veri seti üzerinde yapılan keşifsel veri analizi, şarkıların popülerlik ve dinlenme eğilimlerini ortaya koymuştur. Bu bulgular, müzik endüstrisindeki dinleyici tercihlerini ve platformlar arasındaki etkileşimi anlamak için önemli bilgiler sağlamaktadır.
